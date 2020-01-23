@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif
+}
+
+.header {
+    color: palevioletred
+}
+
+h1, h2{ 
+    color: darkcyan; 
+    font-style: italic
+}
+#large-title {
+    font-family: inherit;
+    font-style: italic
+}
+h1 .title{
+    color: (0,0,0)
+}
+p{
+    width: 240px
+}
+h1, h2{
+    text-align: center
+}
+img{
+    text-align:center
+}
